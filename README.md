@@ -240,13 +240,13 @@ Limited to static content
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 👨‍💻 Author
-Your Name
+Your Name : Brijesh Nigam
 
-GitHub: @your-username
+GitHub: @shinchanji
 
 Portfolio: your-portfolio.com
 
-LinkedIn: Your LinkedIn
+LinkedIn: [Brijesh Nigam] (https://www.linkedin.com/in/brijesh-nigam-7538881a3/)
 
 🙏 Acknowledgments
 Amazon Prime Video for design inspiration
@@ -264,7 +264,7 @@ Check the Issues page
 
 Create a new issue with detailed description
 
-Contact via email: your-email@example.com
+Contact via email: nigambrijesh540@gmail.com
 
 <div align="center">
 ⭐ Don't forget to star this repository if you found it helpful!
@@ -276,7 +276,7 @@ LICENSE.md
 markdown
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2025 Brijesh Nigam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
